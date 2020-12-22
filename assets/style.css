@@ -347,7 +347,11 @@ ul.textlist {
   top: 12px;
   */
   width: 150px; height: auto;
+  transition: transform 300ms ease-in-out;
 }
+  #logo:hover {
+    transform: scale(1.2);
+  }
 
 table {
   width: 100%;
