@@ -146,10 +146,15 @@ a {
     }
   }
   
-  .green-button {
+  .color-button {
     background: linear-gradient(0deg, var(--red5) 0%, var(--red3) 100%);
     color: white;
   }
+    .color-button:active {
+     background: linear-gradient(180deg, var(--red5) 0%, var(--red3) 100%);
+     color: white;
+     box-shadow: none;
+    }
   .blue-button {
     background: linear-gradient(0deg, #3584e4 0%, #62a0ea 100%);
     color: white;
