@@ -356,9 +356,10 @@ ul.textlist {
 table {
   width: 100%;
   margin: 0 0 1rem 0;
+  border-collapse: collapse;
 }
-  table tbody tr {
-    border: solid 1px var(--dark5);
+  table tr {
+    border: solid 1px var(--red1);
     border-left: 0;
     border-right: 0;
   }
