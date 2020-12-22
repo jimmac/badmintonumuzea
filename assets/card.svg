@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1200"
-   height="800"
+   height="630"
    version="1.1"
    id="svg69"
    sodipodi:docname="card.svg"
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,17 +44,19 @@
      id="namedview71"
      showgrid="false"
      inkscape:current-layer="svg69"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     borderlayer="true"
+     inkscape:showpageshadow="false" />
   <rect
-     style="fill:#e01b24;stroke:none;stroke-width:59.999999;stop-color:#000000;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-opacity:1"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#e01b24;fill-opacity:1;stroke:none;stroke-width:51.7752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="rect77"
-     width="1223.0835"
-     height="830.08807"
-     x="-6.0443931"
-     y="-12.899659" />
+     width="1200"
+     height="630"
+     x="0"
+     y="0" />
   <g
      id="g107"
-     transform="translate(-26.591171)">
+     transform="translate(-26.591171,-98.491761)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.009px;line-height:1.25;font-family:'Varela Round';-inkscape-font-specification:'Varela Round, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:1.3207"
