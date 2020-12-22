@@ -118,6 +118,7 @@ a {
   text-align: center;
   font-weight: bold;
   text-decoration: none;
+  font-family: "Varela Round", VarelaRound, "Arial Rounded", Arial, sans-serif;
   transition: all 0.35s cubic-bezier(0.17, 0.89, 0.32, 1.28);
   filter: /* Sharp drop shadow */
           drop-shadow(0 0.08rem 0.1em rgba(0,0,0, 0.2))
