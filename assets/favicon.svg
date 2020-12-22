@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/var/home/jimmac/public_html/badmintonumuzea.eu/assets/apple-touch-icon-192x192.png"
+   inkscape:export-xdpi="1152"
+   inkscape:export-ydpi="1152">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid48" />
+  </sodipodi:namedview>
+  <rect
+     style="font-variation-settings:normal;vector-effect:none;fill:#e01b24;fill-opacity:1;stroke:none;stroke-width:0.952758;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     id="rect77"
+     width="16"
+     height="16"
+     x="0"
+     y="0" />
+  <path
+     d="m 8.0780039,0.01078066 c -0.3142699,0 -0.6286133,0.12032509 -0.8694118,0.36119738 L 0.45758102,7.1232824 a 1.2265033,1.2265033 0 0 0 0,1.7385305 L 7.2085921,15.61319 a 1.22687,1.22687 0 0 0 1.7388234,0 L 15.698425,8.8618129 a 1.2265033,1.2265033 0 0 0 0,-1.7385305 L 8.9474155,0.37197804 A 1.2255501,1.2255501 0 0 0 8.0780039,0.01078066 Z M 5.3187933,4.147177 11.049709,6.5188658 V 7.3182532 C 9.533647,7.1062709 7.8839131,6.5910176 6.5546089,6.8070332 5.6590199,6.2661895 5.5713233,5.0895463 5.3187933,4.147177 Z m 6.3016757,2.5613069 a 1.2922761,1.2922761 0 1 1 0,2.5845519 z M 7.6125382,6.8761776 c 1.1642506,0.025956 2.4153178,0.3338479 3.4371708,0.5179671 V 8.6625164 C 8.9417697,8.9895448 6.2833806,9.6362683 4.6967791,8.0495208 5.3708537,7.1062709 6.4482141,6.8502211 7.6125382,6.8761776 Z M 11.049709,8.7202957 V 9.5196093 L 5.3694605,11.84151 C 5.6219907,10.899142 5.6590937,9.7726529 6.5546089,9.2317355 7.8839864,9.447751 9.533647,8.9322041 11.049709,8.7202219 Z"
+     fill="#ffffff"
+     id="path2"
+     style="stroke-width:0.0733248" />
+</svg>
