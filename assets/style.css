@@ -389,6 +389,29 @@ table {
     border-top: solid 2px var(--dark3);
   }  
 
+.odkazy {
+  margin: 2rem auto;
+  display: grid;
+  grid-auto-flow: row;
+  gap: 1rem;
+  align-items: center;
+}
+  .odkazy a {
+    display: block;
+    width: 50%;
+    margin: 2rem auto;
+    transition: transform 300ms ease-in-out;
+  }
+
+  .odkazy a:hover {
+    transform: scale(1.2);
+  }
+
+  @media (min-width: 900px) { /* desktop */
+    .odkazy { grid-auto-flow: column; }
+    .odkazy a { max-width: 150px; }
+  }  
+
 /* FOOTER */
 footer {
   font-size: 80%;
