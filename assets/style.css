@@ -76,7 +76,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: "Varela Round", VarelaRound, "Arial Rounded", Arial, sans-serif;
-  margin: 0 0 3rem;
+  margin: 3rem 0 1rem 0;
   font-weight: 800;
   line-height: 1.25;
 }
@@ -276,6 +276,10 @@ a {
 }
 
 #apps { margin-bottom: 8rem;}
+
+#aktuality {
+  margin: 3rem auto;
+}
 
 ul.fotolist {
   display: grid;
