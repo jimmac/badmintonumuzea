@@ -441,3 +441,9 @@ footer {
     footer svg:hover {
       opacity: 1;
     }
+    
+  footer .socials {
+    display: inline-block;
+    width: 32px; height: 32px;
+    margin: 0 6px;
+  }
